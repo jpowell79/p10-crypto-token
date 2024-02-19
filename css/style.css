@@ -381,7 +381,7 @@
   display: grid;
   align-items: center;
   width: 10rem;
-  border-radius: 50%;
+  border-radius: 0%;
   margin-bottom: 1.2rem;
 }
 
